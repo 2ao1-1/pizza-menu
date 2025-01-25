@@ -14,6 +14,10 @@ A React-based web application showcasing a variety of pizza options with detaile
 - **JavaScript**: Logic and interactivity.
 - **HTML & CSS**: Structure and styling of the application.
 
+## Live Demo
+
+Check out the live demo here: [Pizza Menu](https://pizza-menu-react-v1.netlify.app/)
+
 ## Installation
 
 To run the project locally, follow these steps:
